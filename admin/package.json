@@ -45,7 +45,7 @@
     "popper.js": "^1.14.1",
     "rxjs": "^5.0.1",
     "sweetalert2": "^7.18.0",
-    "ts-loader": "3.5.0",
+    "ts-loader": "6.0.0",
     "zone.js": "^0.8.4"
   },
   "devDependencies": {

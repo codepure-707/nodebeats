@@ -45,7 +45,7 @@
     "bcrypt": "^1.0.3",
     "bluebird": "^3.5.0",
     "body-parser": "^1.17.1",
-    "cloudinary": "^1.8.0",
+    "cloudinary": "^2.7.0",
     "cloudinary-jquery": "^2.3.0",
     "compression": "^1.6.2",
     "connect-redis": "^3.2.0",
